@@ -1,0 +1,10 @@
+Description
+-------------------------------------------------------------------------------
+This application is one 'solution' to the classical Time-Tabling problem.
+In this app I use a genetic algorithm to try to optimize a cost functioin.
+The user inputs professors, rooms, and other constraints. It will then try to
+find a schedule to satisfy the constraints.
+
+Genetic Algorithm Description
+-------------------------------------------------------------------------------
+TODO
